@@ -1,7 +1,7 @@
 {
     "FileVersion": "1.0.0",
     "PackageName": "DefaultPackage",
-    "PackageVersion": "2026-10-22-1086",
+    "PackageVersion": "2026-10-22-1118",
     "Wrappers": [
         {
             "BundleGUID": "013f40d010fc71e9e216cf82b01287c9",
@@ -10,6 +10,10 @@
         {
             "BundleGUID": "02fc27e9584f77d7cb08d28c19544df6",
             "FileName": "02fc27e9584f77d7cb08d28c19544df6.bundle"
+        },
+        {
+            "BundleGUID": "18662f64d553982ba59dd73771f7a722",
+            "FileName": "18662f64d553982ba59dd73771f7a722.bundle"
         },
         {
             "BundleGUID": "209efe6403632a9cc586460cf76c1e6a",
@@ -22,10 +26,6 @@
         {
             "BundleGUID": "2aa1775f9e62b52f7c022ecafd362d65",
             "FileName": "2aa1775f9e62b52f7c022ecafd362d65.bundle"
-        },
-        {
-            "BundleGUID": "2c66194075f41d98c6e897c09edd1e33",
-            "FileName": "2c66194075f41d98c6e897c09edd1e33.bundle"
         },
         {
             "BundleGUID": "30b539a92000886afbf959143b7c31ae",
@@ -64,6 +64,10 @@
             "FileName": "7053be2ae5b69825b7ccfe443130036a.bundle"
         },
         {
+            "BundleGUID": "80f1bd845bafe28bb42eed98b5c1cfd2",
+            "FileName": "80f1bd845bafe28bb42eed98b5c1cfd2.bundle"
+        },
+        {
             "BundleGUID": "88bf9cf14d20a7802a7bb3d2c84350ff",
             "FileName": "88bf9cf14d20a7802a7bb3d2c84350ff.bundle"
         },
@@ -74,10 +78,6 @@
         {
             "BundleGUID": "90304045c0dacc2260db7954f65fccc0",
             "FileName": "90304045c0dacc2260db7954f65fccc0.bundle"
-        },
-        {
-            "BundleGUID": "9289a7c503af7279f02cbcce6f96bcc0",
-            "FileName": "9289a7c503af7279f02cbcce6f96bcc0.bundle"
         },
         {
             "BundleGUID": "974fa847fbdc0c0f98f27466f4eaa4e0",
@@ -110,6 +110,10 @@
         {
             "BundleGUID": "d2860c24555a4792fe963fd3bd5af107",
             "FileName": "d2860c24555a4792fe963fd3bd5af107.bundle"
+        },
+        {
+            "BundleGUID": "d2dc3fc8d3a9468828517487fe3dfb6a",
+            "FileName": "d2dc3fc8d3a9468828517487fe3dfb6a.bundle"
         },
         {
             "BundleGUID": "d523033b4f978de48577a29a0f5a91a4",
@@ -146,10 +150,6 @@
         {
             "BundleGUID": "f828da94a939ef994ae716eb65bfa45a",
             "FileName": "f828da94a939ef994ae716eb65bfa45a.bundle"
-        },
-        {
-            "BundleGUID": "f879fd40d4d425f94f58b1d0ab74ee14",
-            "FileName": "f879fd40d4d425f94f58b1d0ab74ee14.bundle"
         }
     ]
 }
